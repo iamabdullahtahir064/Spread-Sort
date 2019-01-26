@@ -7,3 +7,7 @@ Array given by the user is equally divided into buckets and each bucket is then 
 # Uses
 1:Facilitate users the most modern fast & memory efficient Algorithm.
 2:No relience on other library or utility.
+# Group Members
+Syeda Mahum Rizwan 17b-033-cs
+Syeda Hiba Khalid 17b-006-cs
+Abdullah Bin Tahir 17b-064-cs
